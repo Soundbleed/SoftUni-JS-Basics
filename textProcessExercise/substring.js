@@ -8,7 +8,7 @@ function solve(word, sentance){
     }
 
 }
-
+////////........yfutdu
 solve('javascript',
 'JavaScript is the best programming language'
 )

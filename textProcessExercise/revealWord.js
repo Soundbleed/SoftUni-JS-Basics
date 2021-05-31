@@ -8,7 +8,7 @@ function solve(words, sentance) {
         }
     }
     console.log(result)
-
+////
 }
 
 solve('great, learning',
